@@ -16,7 +16,7 @@ import ReactDOM from 'react-dom';
 // onchange回调方法：
 
 // selectA改变的回调
-  // onOptionChangeB = value => {
+  // onOptionChange = value => {
   //   //console.log(value);
   //   this.setState({
   //     yearValue:value
